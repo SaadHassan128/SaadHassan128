@@ -1,114 +1,148 @@
+<!-- ===== Gradient Header ===== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:e0f2fe,50:f8fafc,100:e2e8f0&text=Saad%20Hassan%20Saad&fontAlignY=40&desc=Instructor%20%7C%20Full-Stack%20Developer&descAlignY=60&fontColor=0f172a"
+/>
 
-<h1 align="center"><b>Hi , I'm Saad Hassan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Profile..&hearts;++;Full-Stack+Developer;Specialized+in+MEAN+Stack;Instructor+in+Web+Development"></a>
+<!-- ===== Intro ===== -->
+<h2 align="left">
+Hi 👋! I'm Saad Hassan Saad <br>
+Instructor & Full-Stack Developer from Egypt 🇪🇬
+</h2>
+
+<p align="left">
+Full-Stack Developer and Instructor with experience in building modern web applications using Angular and Node.js.
+Focused on clean architecture, scalable APIs, and clear technical teaching.
 </p>
 
+<!-- ===== GitHub Stats ===== -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SaadHassan128&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadHassan128&layout=compact&langs_count=8&hide_border=true&theme=dracula"
+    height="150"
+  />
+</div>
 
-<br>
+<!-- ===== Divider ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:e2e8f0,100:cbd5e1" />
 
+<!-- ===== Tech Stack ===== -->
+<h3 align="left">🛠 Tech Stack</h3>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+</div>
 
-	
-## **About me**
+<!-- ===== Programming Languages ===== -->
+<h3 align="left">💻 Programming Languages</h3>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+</div>
 
-<br>
+<!-- ===== Cloud Hosting ===== -->
+<h3 align="left">☁️ Cloud Hosting</h3>
 
-- A passionate MEAN Stack Developer
-- Working as MEAN Stack Instructor at ADA Egypt
-- Personal website [link](https://www.saadhassan.online/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1dW88LDT_YcllHnCxJWBYApMMzKOIgmm6/view?usp=sharing)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30"/>
+</div>
 
-<br><br>
+<ul>
+  <li>GitHub Pages</li>
+  <li>Vercel</li>
+</ul>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- ===== Tools ===== -->
+<h3 align="left">🧰 Software & Tools</h3>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+</div>
+
+<p>MongoDB Compass</p>
+
+<!-- ===== Instructor ===== -->
+<h3 align="left">🎓 Instructor Experience</h3>
+
+<ul>
+  <li>Teaching Web Development fundamentals</li>
+  <li>Angular concepts and frontend architecture</li>
+  <li>Node.js, Express.js, and RESTful APIs</li>
+  <li>Mentoring students and junior developers</li>
+</ul>
+
+<!-- ===== Extras ===== -->
+<h3 align="left">✨ Extras</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30"/>
+</div>
+
+<ul>
+  <li>Terminal Usage</li>
+  <li>Markdown Documentation</li>
+</ul>
+
+<!-- ===== Contact ===== -->
+<h3 align="left">📫 Connect with Me</h3>
+
+<div align="left">
+  <a href="mailto:saadhassansaad1997@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saad-hassan-saad/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
+
+<!-- ===== Snake ===== -->
+<br clear="both">
 
 <p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-<br>
-
-- **Back-End Development**:
-
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-%230075C0.svg?style=for-the-badge&logo=database&logoColor=white)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-    ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
-<br>
-<br>
-
-<br>
-<br>
-<h2 align="center">📩 Get in Touch</h2>
-
-<p align="center">
-   <strong>Have a question or want to collaborate? Feel free to reach out!</strong>
-</p>
-
-<p align="center">
-   <a href="mailto:saadhassansaad1997@gmail.com">
-      <img src="https://img.shields.io/badge/Email:-Saad Hassan-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-   </a>
-  <br>
-  <br>
-   <a href="https://wa.me/201066232186">
-      <img src="https://img.shields.io/badge/WhatsApp:-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-   </a>
-  <br>
-  <br>
-   <a href="https://www.linkedin.com/in/saad-hassan-saad/">
-      <img src="https://img.shields.io/badge/LinkedIn:-Saad Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-   </a>
-  <br>
-  <br>
-</p>
-
+<!-- ===== Gradient Footer ===== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:e2e8f0,50:f8fafc,100:e0f2fe&section=footer"
+/>
