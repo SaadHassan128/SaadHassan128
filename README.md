@@ -16,10 +16,7 @@ Focused on clean architecture, scalable APIs, and clear technical teaching.
 
 <!-- ===== GitHub Stats ===== -->
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SaadHassan128&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"
-    height="150"
-  />
+  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadHassan128&layout=compact&langs_count=8&hide_border=true&theme=dracula"
     height="150"
